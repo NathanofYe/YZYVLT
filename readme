@@ -1,0 +1,9 @@
+Tentative description of project. 
+
+Users will upload or link to a interview, song, podcast, and such. 
+
+Then others will work via crowdsourcing to segment and transcribe the audio. 
+
+Then other can view the transcriptions and interviews via a CSPAN like set up and search across all the audio with a text search.
+
+The audio and video will probably use a separate service like youtube. with YZYVLT just handling the transcripts and timestamps, and the frontend will just have a way to jump around from transcript timestamp to time in the embedded video. 
